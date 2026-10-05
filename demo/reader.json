@@ -1,0 +1,58 @@
+[
+  {
+    "cls": "HIS 101 — World History",
+    "color": "burnt",
+    "note": "Sample reader using public-domain texts from Project Gutenberg.",
+    "groups": [
+      {
+        "id": "his-w6",
+        "label": "Week 6 — The ancient Mediterranean",
+        "items": [
+          {
+            "title": "The History of Herodotus, Volume 1",
+            "by": "required · Herodotus",
+            "link": "https://www.gutenberg.org/ebooks/2707",
+            "open": true
+          },
+          {
+            "title": "The History of the Peloponnesian War",
+            "by": "recommended · Thucydides",
+            "link": "https://www.gutenberg.org/ebooks/7142",
+            "open": true
+          }
+        ]
+      },
+      {
+        "id": "his-w7",
+        "label": "Week 7 — Trade across Eurasia",
+        "note": "for the Oct 6 reading",
+        "items": [
+          {
+            "title": "The Travels of Marco Polo, Volume 1",
+            "by": "required · Marco Polo",
+            "link": "https://www.gutenberg.org/ebooks/10636",
+            "open": true
+          }
+        ]
+      },
+      {
+        "id": "his-w8",
+        "label": "Week 8 — Power and the state",
+        "items": [
+          {
+            "title": "The Prince",
+            "by": "required · Niccolò Machiavelli",
+            "link": "https://www.gutenberg.org/ebooks/1232",
+            "open": true
+          },
+          {
+            "title": "The Wealth of Nations",
+            "by": "recommended · Adam Smith",
+            "link": "https://www.gutenberg.org/ebooks/3300",
+            "open": true
+          }
+        ]
+      }
+    ]
+  }
+]

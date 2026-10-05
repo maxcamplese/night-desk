@@ -1,0 +1,185 @@
+[
+  {
+    "id": "demo-a01",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "homework",
+    "date": "2026-09-29",
+    "time": null,
+    "title": "Lab 3: Subnetting worksheet"
+  },
+  {
+    "id": "demo-a07",
+    "cls": "HIS 101 \u2014 World History",
+    "color": "burnt",
+    "type": "homework",
+    "date": "2026-09-30",
+    "time": null,
+    "title": "Reading response 4"
+  },
+  {
+    "id": "demo-a12",
+    "cls": "STA 220 \u2014 Statistics",
+    "color": "blue",
+    "type": "homework",
+    "date": "2026-10-01",
+    "time": null,
+    "title": "Problem set 5"
+  },
+  {
+    "id": "demo-a02",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "quiz",
+    "date": "2026-10-02",
+    "time": null,
+    "title": "Quiz 2: DNS and DHCP"
+  },
+  {
+    "id": "demo-a17",
+    "cls": "SPN 201 \u2014 Spanish Conversation",
+    "color": "violet",
+    "type": "homework",
+    "date": "2026-10-05",
+    "time": null,
+    "title": "Composici\u00f3n 2"
+  },
+  {
+    "id": "demo-a08",
+    "cls": "HIS 101 \u2014 World History",
+    "color": "burnt",
+    "type": "reading",
+    "date": "2026-10-06",
+    "time": null,
+    "title": "Read chapter 9: The Silk Roads",
+    "jump": "his-w7"
+  },
+  {
+    "id": "demo-a03",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "homework",
+    "date": "2026-10-07",
+    "time": null,
+    "title": "Lab 4: Packet capture report"
+  },
+  {
+    "id": "demo-a13",
+    "cls": "STA 220 \u2014 Statistics",
+    "color": "blue",
+    "type": "homework",
+    "date": "2026-10-08",
+    "time": null,
+    "title": "Problem set 6"
+  },
+  {
+    "id": "demo-a09",
+    "cls": "HIS 101 \u2014 World History",
+    "color": "burnt",
+    "type": "quiz",
+    "date": "2026-10-09",
+    "time": null,
+    "title": "Map quiz"
+  },
+  {
+    "id": "demo-a04",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "reading",
+    "date": "2026-10-12",
+    "time": null,
+    "title": "Read chapter 6: Wireless LANs"
+  },
+  {
+    "id": "demo-a18",
+    "cls": "SPN 201 \u2014 Spanish Conversation",
+    "color": "violet",
+    "type": "project",
+    "date": "2026-10-13",
+    "time": null,
+    "title": "Presentaci\u00f3n oral"
+  },
+  {
+    "id": "demo-a14",
+    "cls": "STA 220 \u2014 Statistics",
+    "color": "blue",
+    "type": "quiz",
+    "date": "2026-10-14",
+    "time": null,
+    "title": "Quiz 3: Sampling distributions"
+  },
+  {
+    "id": "demo-a10",
+    "cls": "HIS 101 \u2014 World History",
+    "color": "burnt",
+    "type": "homework",
+    "date": "2026-10-16",
+    "time": null,
+    "title": "Primary source essay draft",
+    "link": "https://www.gutenberg.org/ebooks/10636",
+    "open": true
+  },
+  {
+    "id": "demo-a15",
+    "cls": "STA 220 \u2014 Statistics",
+    "color": "blue",
+    "type": "project",
+    "date": "2026-10-19",
+    "time": null,
+    "title": "Group project: data collection plan"
+  },
+  {
+    "id": "demo-a19",
+    "cls": "SPN 201 \u2014 Spanish Conversation",
+    "color": "violet",
+    "type": "quiz",
+    "date": "2026-10-20",
+    "time": null,
+    "title": "Prueba: el subjuntivo"
+  },
+  {
+    "id": "demo-a05",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "exam",
+    "date": "2026-10-21",
+    "time": null,
+    "title": "Midterm exam"
+  },
+  {
+    "id": "demo-a16",
+    "cls": "STA 220 \u2014 Statistics",
+    "color": "blue",
+    "type": "homework",
+    "date": "2026-10-22",
+    "time": null,
+    "title": "Problem set 7"
+  },
+  {
+    "id": "demo-a11",
+    "cls": "HIS 101 \u2014 World History",
+    "color": "burnt",
+    "type": "exam",
+    "date": "2026-10-23",
+    "time": null,
+    "title": "Midterm exam"
+  },
+  {
+    "id": "demo-a20",
+    "cls": "SPN 201 \u2014 Spanish Conversation",
+    "color": "violet",
+    "type": "reading",
+    "date": "2026-10-26",
+    "time": null,
+    "title": "Lectura: cap\u00edtulo 5"
+  },
+  {
+    "id": "demo-a06",
+    "cls": "NET 210 \u2014 Intro to Data Networks",
+    "color": "teal",
+    "type": "project",
+    "date": "2026-10-28",
+    "time": null,
+    "title": "Final project proposal"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "night-desk",
+  "private": true,
+  "type": "module",
+  "description": "Nightly assignment checklist page and a reading-to-audio pipeline",
+  "scripts": {
+    "build": "node tools/build-page.mjs --assignments demo/assignments.json --reader demo/reader.json --footer \"Sample semester · 4 classes · 20 items\" --out dist/index.html",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.2.108"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
