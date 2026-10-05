@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Unit tests
+        run: npm test
+      - name: Build the sample page
+        run: npm run build
+      - name: Check the render script compiles
+        run: python3 -m py_compile audio/render_audio.py
+
+  ocr-typecheck:
+    # PDFKit and Vision only exist on macOS
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Type-check the OCR tool
+        run: swiftc -typecheck audio/ocr_pdf.swift
