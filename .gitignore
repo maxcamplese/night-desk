@@ -1,0 +1,15 @@
+node_modules/
+dist/
+__pycache__/
+.DS_Store
+# Personal data and copyrighted material: never commit these
+*-backup*.json
+my-*.json
+texts/
+readings/
+*.pdf
+*.wav
+*.m4a
+*.onnx
+*.onnx.json
+.venv/
